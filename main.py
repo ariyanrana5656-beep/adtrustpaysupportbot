@@ -68,7 +68,7 @@ ACCOUNT:
 
 DEPOSIT:
 - Deposit process
-- Payment method: Nagad / bKash
+- Payment method: USDT TRC20
 - Transaction ID
 - Pending deposit issue
 
@@ -109,38 +109,38 @@ Commission rules:
 MANAGER PROGRAM:
 V1 Bronze:
 - 5 active users
-- 10,000৳ team deposit
-- Salary: 300৳/month
+- 100 USDT team deposit
+- Salary: 3 USDT/month
 
 V2 Silver:
 - 10 active users
-- 50,000৳ team deposit
-- Salary: 700৳/month
+- 410 USDT team deposit
+- Salary: 7 USDT/month
 
 V3 Gold:
 - 20 active users
-- 100,000৳ team deposit
-- Salary: 1,500৳/month
+-800 USDT team deposit
+- Salary: 15 USDT/month
 
 V4 Diamond:
 - 40 active users
-- 200,000৳ team deposit
-- Salary: 3,000৳/month
+- 1600USDT team deposit
+- Salary: 24 USDT/month
 
 V5 Elite:
 - 80 active users
-- 400,000৳ team deposit
-- Salary: 6,000৳/month
+-3200 USDT team deposit
+- Salary: 48 USDT/month
 
 V6 Premier:
 - 150 active users
-- 450,000৳ team deposit
-- Salary: 10,000৳/month
+-  3600 USDT team deposit
+- Salary: 79 USDT/month
 
 V7 Royal:
 - 300 active users
-- 500,000৳ team deposit
-- Salary: 20,000৳/month
+-  4000 USDT team deposit
+- Salary:160 USDT/month
 
 Manager rules:
 - Only active deposit users are counted.
